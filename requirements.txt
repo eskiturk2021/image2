@@ -1,5 +1,5 @@
 
-numpy==1.24.2
+numpy==1.24.5
 opencv-python==4.7.0.72
 streamlit==1.19.0
 imutils==0.5.4
